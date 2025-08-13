@@ -1,4 +1,4 @@
-package ipc
+package mut_ipc
 
 // Helper functions for common message patterns
 

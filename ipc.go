@@ -1,4 +1,4 @@
-package ipc
+package mut_ipc
 
 import (
 	"bufio"
